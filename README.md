@@ -3,23 +3,18 @@
 This is a list of all the C Books that you probably need to master C Programming Language
 
 ## Beginners
+
 [Beginning Programming With C For Dummies.pdf][1]
 [Computer Fundamentals and Programming in C.pdf](http://file.allitebooks.com/20160524/Computer Fundamentals and Programming in C.pdf)
-
 [Head First C.pdf](http://file.allitebooks.com/20150510/Head First C.pdf)
-
 [Learn C on the Mac, 2nd Edition.pdf](http://file.allitebooks.com/20150510/Learn C on the Mac, 2nd Edition.pdf)
 
-
 ## Intermediate 
+
 [Clean C.pdf](http://file.allitebooks.com/20171001/Clean C.pdf)
-
 [Learning Object-oriented Programming in C 5.0.pdf](http://file.allitebooks.com/20151208/Learning Object-oriented Programming in C 5.0.pdf)
-
 [Practical C.pdf](http://file.allitebooks.com/20161210/Practical C.pdf)
-
 [Principles of Data Structures using C and C++.pdf](http://file.allitebooks.com/20150510/Principles of Data Structures using C and C++.pdf)
-
 [The C Programming Language, 2nd Edition.pdf](http://file.allitebooks.com/20150510/The C Programming Language, 2nd Edition.pdf)
 
 
