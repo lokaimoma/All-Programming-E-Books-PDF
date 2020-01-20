@@ -3,8 +3,7 @@
 This is a list of all the C Books that you probably need to master C Programming Language
 
 ## Beginners
-[Beginning Programming With C For Dummies.pdf](http://file.allitebooks.com/20151213/Beginning Programming With C For Dummies.pdf)
-
+[Beginning Programming With C For Dummies.pdf][1]
 [Computer Fundamentals and Programming in C.pdf](http://file.allitebooks.com/20160524/Computer Fundamentals and Programming in C.pdf)
 
 [Head First C.pdf](http://file.allitebooks.com/20150510/Head First C.pdf)
@@ -53,3 +52,5 @@ Beginning C for Arduino, Second Edition- Learn C Programming for the Arduino.pdf
 
 [Programming Windows Store Apps with C.pdf](http://file.allitebooks.com/20160617/Programming Windows Store Apps with C.pdf)
 
+
+[1]: http://file.allitebooks.com/20151213/Beginning Programming With C For Dummies.pdf
