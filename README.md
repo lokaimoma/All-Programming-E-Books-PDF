@@ -1,7 +1,7 @@
 # Programming Books
 
 * [C Books](#C%20Books)
-* [CPP Books](#C++ books)
+* [C++ Books](#C%2B%2B%20books)
 
 
 ## C Books
@@ -91,8 +91,6 @@ This is a list of all the C Books that you probably need to master C Programming
 * [Beginning Android C++ Game Development.pdf](http://file.allitebooks.com/20150529/Beginning%20Android%20C%2B%2B%20Game%20Development.pdf)
 * [Beginning C++ Game Programming.pdf](http://file.allitebooks.com/20161011/Beginning%20C%2B%2B%20Game%20Programming.pdf)
 * [Boost.Asio C++ Network Programming Cookbook.rar](http://file.allitebooks.com/20160129/Boost.Asio%20C%2B%2B%20Network%20Programming%20Cookbook.rar)
-* [Boost.Asio C++ Network Programming.pdf](http://file.allitebooks.com/20150510/Boost.Asio%20C%2B%2B%20Network%20Programming.pdf)
-* [Boost.Asio C++ Network Programming.pdf](http://file.allitebooks.com/20150510/Boost.Asio%20C%2B%2B%20Network%20Programming.pdf)
 * [Data Clustering in C++.pdf](http://file.allitebooks.com/20160802/Data%20Clustering%20in%20C%2B%2B.pdf)
 * [Designing Software Synthesizer Plug-Ins in C++.pdf](http://file.allitebooks.com/20150711/Designing%20Software%20Synthesizer%20Plug-Ins%20in%20C%2B%2B.pdf)
 * [Exploring the Raspberry Pi 2 with C++.pdf](http://file.allitebooks.com/20151202/Exploring%20the%20Raspberry%20Pi%202%20with%20C%2B%2B.pdf)
