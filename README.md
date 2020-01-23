@@ -1,7 +1,7 @@
 # Programming Books
 
-* [C Books](#C%20Books)
-* [C++ Books](#C%2B%2B%20books)
+* [C Books](#c-books)
+* [C++ Books](#c-books-1)
 
 
 ## C Books
