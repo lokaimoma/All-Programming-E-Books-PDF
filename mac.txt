@@ -1,42 +1,22 @@
-http://file.allitebooks.com/20170826/Beginning Ubuntu for Windows and Mac Users, 2nd Edition.pdf
-http://file.allitebooks.com/20150520/Building Applications for the Mac App Store.pdf
-http://file.allitebooks.com/20150520/Concurrent Programming in Mac OS X and iOS.pdf
-http://file.allitebooks.com/20150520/Core Animation for Mac OS X and the iPhone.pdf
-http://file.allitebooks.com/20170206/Creating Mac Widgets with Dashcode.pdf
-http://file.allitebooks.com/20160913/Enterprise Mac Administrator s Guide.pdf
-http://file.allitebooks.com/20150520/Enterprise Mac Managed Preferences.pdf
-http://file.allitebooks.com/20150521/Enterprise Mac Security Mac OS X Snow Leopard, 2nd Edition.pdf
-http://file.allitebooks.com/20160213/Enterprise Mac Security, 3rd Edition.pdf
-http://file.allitebooks.com/20150520/Java and Mac OS X.pdf
-http://file.allitebooks.com/20150510/Learn C on the Mac.pdf
-http://file.allitebooks.com/20150520/Learn Cocoa on the Mac.pdf
-http://file.allitebooks.com/20150603/Learn Excel 2011 for Mac.pdf
-http://file.allitebooks.com/20150520/Learn Objective-C on the Mac For OS X and iOS, 2nd Edition.pdf
-http://file.allitebooks.com/20150627/Learn Objective-C on the Mac.pdf
-http://file.allitebooks.com/20150520/Learn Office 2011 for Mac OS X.pdf
-http://file.allitebooks.com/20151211/Learn Swift On The Mac.pdf
-http://file.allitebooks.com/20151003/MAC Protocols for Cyber-Physical Systems.pdf
-http://file.allitebooks.com/20151217/Mac Application Development For Dummies.pdf
-http://file.allitebooks.com/20150520/Mac Application Development by Example.pdf
-http://file.allitebooks.com/20150602/Mac Hacks.pdf
-http://file.allitebooks.com/20150602/Mac Kung Fu, 2nd edition.pdf
-http://file.allitebooks.com/20150520/Mac Kung Fu.pdf
-http://file.allitebooks.com/20150602/Mac OS X Leopard.pdf
-http://file.allitebooks.com/20150602/Mac OS X Lion Bible.pdf
-http://file.allitebooks.com/20150520/Mac OS X Lion Made Simple.pdf
-http://file.allitebooks.com/20150930/Mac OS X Lion- Peachpit Learning Series.pdf
-http://file.allitebooks.com/20160323/Mac OS X Snow Leopard All-in-One For Dummies.pdf
-http://file.allitebooks.com/20150520/Mac OS X Snow Leopard Pocket Guide.pdf
-http://file.allitebooks.com/20150520/Mac OS X Snow Leopard The Missing Manual.pdf
-http://file.allitebooks.com/20150520/Mac OS X and iOS Internals.pdf
-http://file.allitebooks.com/20160610/Mac OS X for Absolute Beginners.pdf
-http://file.allitebooks.com/20150520/Mac Programming for Absolute Beginners.pdf
-http://file.allitebooks.com/20150602/Master Your Mac.pdf
-http://file.allitebooks.com/20150602/Office 2011 for Mac All-in-One For Dummies.pdf
-http://file.allitebooks.com/20150520/Programming Mac OS X.pdf
-http://file.allitebooks.com/20150520/Sams Teach Yourself Core Data for Mac and iOS in 24 Hours, 2nd Edition.pdf
-http://file.allitebooks.com/20150602/Sams Teach Yourself Mac OS X Lion in 10 Minutes.pdf
-http://file.allitebooks.com/20150602/Switching to the Mac The Missing Manual, Mountain Lion Edition.pdf
-http://file.allitebooks.com/20150520/Switching to the Mac The Missing Manual, Snow Leopard Edition.pdf
-http://file.allitebooks.com/20150602/Switching to the Mac The Missing Manual, Yosemite Edition.pdf
-http://file.allitebooks.com/20161210/Using Mac OS X Mavericks.pdf
+http://file.allitebooks.com/20150602/Mac%20Hacks.pdf
+http://file.allitebooks.com/20150602/Mac%20Kung%20Fu,%202nd%20edition.pdf
+http://file.allitebooks.com/20150520/Mac%20Kung%20Fu.pdf
+http://file.allitebooks.com/20150602/Mac%20OS%20X%20Leopard.pdf
+http://file.allitebooks.com/20150602/Mac%20OS%20X%20Lion%20Bible.pdf
+http://file.allitebooks.com/20150520/Mac%20OS%20X%20Lion%20Made%20Simple.pdf
+http://file.allitebooks.com/20150930/Mac%20OS%20X%20Lion-%20Peachpit%20Learning%20Series.pdf
+http://file.allitebooks.com/20160323/Mac%20OS%20X%20Snow%20Leopard%20All-in-One%20For%20Dummies.pdf
+http://file.allitebooks.com/20150520/Mac%20OS%20X%20Snow%20Leopard%20Pocket%20Guide.pdf
+http://file.allitebooks.com/20150520/Mac%20OS%20X%20Snow%20Leopard%20The%20Missing%20Manual.pdf
+http://file.allitebooks.com/20150520/Mac%20OS%20X%20and%20iOS%20Internals.pdf
+http://file.allitebooks.com/20160610/Mac%20OS%20X%20for%20Absolute%20Beginners.pdf
+http://file.allitebooks.com/20150520/Mac%20Programming%20for%20Absolute%20Beginners.pdf
+http://file.allitebooks.com/20150602/Master%20Your%20Mac.pdf
+http://file.allitebooks.com/20150602/Office%202011%20for%20Mac%20All-in-One%20For%20Dummies.pdf
+http://file.allitebooks.com/20150520/Programming%20Mac%20OS%20X.pdf
+http://file.allitebooks.com/20150520/Sams%20Teach%20Yourself%20Core%20Data%20for%20Mac%20and%20iOS%20in%2024%20Hours,%202nd%20Edition.pdf
+http://file.allitebooks.com/20150602/Sams%20Teach%20Yourself%20Mac%20OS%20X%20Lion%20in%2010%20Minutes.pdf
+http://file.allitebooks.com/20150602/Switching%20to%20the%20Mac%20The%20Missing%20Manual,%20Mountain%20Lion%20Edition.pdf
+http://file.allitebooks.com/20150520/Switching%20to%20the%20Mac%20The%20Missing%20Manual,%20Snow%20Leopard%20Edition.pdf
+http://file.allitebooks.com/20150602/Switching%20to%20the%20Mac%20The%20Missing%20Manual,%20Yosemite%20Edition.pdf
+http://file.allitebooks.com/20161210/Using%20Mac%20OS%20X%20Mavericks.pdf
