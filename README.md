@@ -2,7 +2,7 @@
 
 * [C Books](#c-books)
 * [C++ Books](#c-books-1)
-* [Javascript](#c-books-2)
+* [Javascript](#javascript)
 
 
 ## C Books
