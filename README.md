@@ -15,15 +15,21 @@ This is a list of all the C Books that you probably need to master C Programming
 * [Head First C.pdf](http://file.allitebooks.com/20150510/Head%20First%20C.pdf)
 * [Learn C on the Mac, 2nd Edition.pdf](http://file.allitebooks.com/20150510/Learn%20C%20on%20the%20Mac%2C%202nd%20Edition.pdf)
 * [Learn to Program with C.pdf](http://file.allitebooks.com/20151222/Learn%20to%20Program%20with%20C.pdf)
+* [C Primer Plus, 6th Edition.pdf](http://file.allitebooks.com/20150510/C%20Primer%20Plus%2C%206th%20Edition.pdf)
+* [C Programming for the Absolute Beginner, 2nd Edition.pdf](http://file.allitebooks.com/20150902/C%20Programming%20for%20the%20Absolute%20Beginner%2C%202nd%20Edition.pdf)
+* [C and XML Primer.pdf](http://file.allitebooks.com/20170221/C%20and%20XML%20Primer.pdf)
 
 ### Intermediate 
 
 * [Clean C.pdf](http://file.allitebooks.com/20171001/Clean%20C.pdf)
+* [C Quick Syntax Reference.pdf](http://file.allitebooks.com/20151127/C%20Quick%20Syntax%20Reference.pdf)
+* [C Recipes.pdf](http://file.allitebooks.com/20170729/C%20Recipes.pdf)
 * [Learning Object-oriented Programming in C 5.0.pdf](http://file.allitebooks.com/20151208/Learning%20Object-oriented%20Programming%20in%20C%205.0.pdf)
 * [Pointers in C.pdf](http://file.allitebooks.com/20150510/Pointers%20in%20C.pdf)
 * [Practical C.pdf](http://file.allitebooks.com/20161210/Practical%20C.pdf)
 * [The C Programming Language, 2nd Edition.pdf](http://file.allitebooks.com/20150510/The%20C%20Programming%20Language%2C%202nd%20Edition.pdf)
 * [Understanding and Using C Pointers.pdf](http://file.allitebooks.com/20150510/Understanding%20and%20Using%20C%20Pointers.pdf)
+* [C in a Nutshell, 2nd Edition.pdf](http://file.allitebooks.com/20151217/C%20in%20a%20Nutshell%2C%202nd%20Edition.pdf)
 
 
 ### Advanced 
@@ -38,6 +44,7 @@ This is a list of all the C Books that you probably need to master C Programming
 * [Programming 32-bit Microcontrollers in C.pdf](http://file.allitebooks.com/20160624/Programming%2032-bit%20Microcontrollers%20in%20C.pdf)
 * [Programming Projects in C for Students of Engineering, Science, and Mathematics.pdf](http://file.allitebooks.com/20151115/Programming%20Projects%20in%20C%20for%20Students%20of%20Engineering%2C%20Science%2C%20and%20Mathematics.pdf)
 * [Programming Windows Store Apps with C.pdf](http://file.allitebooks.com/20160617/Programming%20Windows%20Store%20Apps%20with%20C.pdf)
+* [C Programming for Arduino.pdf](http://file.allitebooks.com/20170209/C%20Programming%20for%20Arduino.pdf)
 
 
 ## C++ Books
@@ -49,12 +56,28 @@ This is a list of all the C Books that you probably need to master C Programming
 * [Beginning Programming with C++ For Dummies.pdf](http://file.allitebooks.com/20150510/Beginning%20Programming%20with%20C%2B%2B%20For%20Dummies.pdf)
 * [Beginning Visual C++ 2005.pdf](http://file.allitebooks.com/20150510/Beginning%20Visual%20C%2B%2B%202005.pdf)
 * [Ivor Horton's Beginning Visual C++ 2013.pdf](http://file.allitebooks.com/20151207/Ivor%20Horton%27s%20Beginning%20Visual%20C%2B%2B%202013.pdf)
-* [Sams Teach Yourself C++ in 24 Hours, 5th Edition.pdf](http://file.allitebooks.com/20150510/Sams%20Teach%20Yourself%20C%2B%2B%20in%2024%20Hours%2C%205th%20Edition.pdf)
 * [Sams Teach Yourself C++ in One Hour a Day, 7th Edition.pdf](http://file.allitebooks.com/20150510/Sams%20Teach%20Yourself%20C%2B%2B%20in%20One%20Hour%20a%20Day%2C%207th%20Edition.pdf)
+* [C++ in 24 Hours, Sams Teach Yourself, 6th Edition.pdf](http://file.allitebooks.com/20161124/C%2B%2B%20in%2024%20Hours%2C%20Sams%20Teach%20Yourself%2C%206th%20Edition.pdf)
+* [C++ For Dummies, 7th Edition.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20For%20Dummies%2C%207th%20Edition.pdf)
+* [C++ How to Program, 8th Edition.pdf](http://file.allitebooks.com/20150919/C%2B%2B%20How%20to%20Program%2C%208th%20Edition.pdf)
+* [C++ Primer Plus, 6th Edition.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Primer%20Plus%2C%206th%20Edition.pdf)
+
 
 ### Intermediate
 
 * [Accelerated C++ Practical Programming by Example.pdf](http://file.allitebooks.com/20150510/Accelerated%20C%2B%2B%20Practical%20Programming%20by%20Example.pdf)
+* [C++ 14 Quick Syntax Reference, Second Edition.pdf](http://file.allitebooks.com/20151202/C%2B%2B%2014%20Quick%20Syntax%20Reference%2C%20Second%20Edition.pdf)
+* [C++ AMP.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20AMP.pdf)
+* [C++ All-in-One For Dummies, 3rd Edition.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20All-in-One%20For%20Dummies%2C%203rd%20Edition.pdf)
+* [C++ Application Development with CodeBlocks.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Application%20Development%20with%20CodeBlocks.pdf)
+* [C++ Cookbook.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Cookbook.pdf)
+* [C++ Quick Syntax Reference.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Quick%20Syntax%20Reference.pdf)
+* [C++ Recipes A Problem-Solution Approach.pdf](http://file.allitebooks.com/20150901/C%2B%2B%20Recipes%20A%20Problem-Solution%20Approach.pdf)
+* [C++ Standard Library Quick Reference.pdf](http://file.allitebooks.com/20160630/C%2B%2B%20Standard%20Library%20Quick%20Reference.pdf)
+* [C++ Without Fear, 3rd Edition.pdf](http://file.allitebooks.com/20160124/C%2B%2B%20Without%20Fear%2C%203rd%20Edition.pdf)
+* [C++ in a Nutshell.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20in%20a%20Nutshell.pdf)
+* [C++ Pocket Reference.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Pocket%20Reference.pdf)
+* [C++ Programming, 6th Edition.pdf](http://file.allitebooks.com/20151109/C%2B%2B%20Programming%2C%206th%20Edition.pdf)
 * [Effective Modern C++.pdf](http://file.allitebooks.com/20150510/Effective%20Modern%20C%2B%2B.pdf)
 * [The C++ Programming Language, 4th Edition.pdf](http://file.allitebooks.com/20150510/The%20C%2B%2B%20Programming%20Language%2C%204th%20Edition.pdf)
 * [The C++ Standard Library, 2nd Edition.pdf](http://file.allitebooks.com/20150510/The%20C%2B%2B%20Standard%20Library%2C%202nd%20Edition.pdf)
@@ -69,6 +92,8 @@ This is a list of all the C Books that you probably need to master C Programming
 
 * [Advanced  Metaprogramming in Classic C++.pdf](http://file.allitebooks.com/20150901/Advanced%20%20Metaprogramming%20in%20Classic%20C%2B%2B.pdf)
 * [Advanced C and C++ Compiling.pdf](http://file.allitebooks.com/20150510/Advanced%20C%20and%20C%2B%2B%20Compiling.pdf)
+* [C++ Concurrency in Action.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Concurrency%20in%20Action.pdf)
+* [C++ Multithreading Cookbook.pdf](http://file.allitebooks.com/20150510/C%2B%2B%20Multithreading%20Cookbook.pdf)
 * [Data Structures using C++.pdf](http://file.allitebooks.com/20160524/Data%20Structures%20using%20C%2B%2B.pdf)
 * [Exploring C++ 11, 2nd Edition.pdf](http://file.allitebooks.com/20150510/Exploring%20C%2B%2B%2011%2C%202nd%20Edition.pdf)
 * [Exploring C++.pdf](http://file.allitebooks.com/20170130/Exploring%20C%2B%2B.pdf)
@@ -91,6 +116,11 @@ This is a list of all the C Books that you probably need to master C Programming
 * [Beginning Android C++ Game Development.pdf](http://file.allitebooks.com/20150529/Beginning%20Android%20C%2B%2B%20Game%20Development.pdf)
 * [Beginning C++ Game Programming.pdf](http://file.allitebooks.com/20161011/Beginning%20C%2B%2B%20Game%20Programming.pdf)
 * [Boost.Asio C++ Network Programming Cookbook.rar](http://file.allitebooks.com/20160129/Boost.Asio%20C%2B%2B%20Network%20Programming%20Cookbook.rar)
+* [C++ for Engineers and Scientists, 4th Edition.pdf](http://file.allitebooks.com/20150819/C%2B%2B%20for%20Engineers%20and%20Scientists%2C%204th%20Edition.pdf)
+* [C++ for Financial Mathematics.pdf](http://file.allitebooks.com/20170129/C%2B%2B%20for%20Financial%20Mathematics.pdf)
+* [C++ Game Development Cookbook.pdf](http://file.allitebooks.com/20161002/C%2B%2B%20Game%20Development%20Cookbook.pdf)
+* [C++ Game Development Primer.pdf](http://file.allitebooks.com/20150529/C%2B%2B%20Game%20Development%20Primer.pdf)
+* [C ++ Windows Programming.pdf](http://file.allitebooks.com/20160922/C%20%2B%2B%20Windows%20Programming.pdf)
 * [Data Clustering in C++.pdf](http://file.allitebooks.com/20160802/Data%20Clustering%20in%20C%2B%2B.pdf)
 * [Designing Software Synthesizer Plug-Ins in C++.pdf](http://file.allitebooks.com/20150711/Designing%20Software%20Synthesizer%20Plug-Ins%20in%20C%2B%2B.pdf)
 * [Exploring the Raspberry Pi 2 with C++.pdf](http://file.allitebooks.com/20151202/Exploring%20the%20Raspberry%20Pi%202%20with%20C%2B%2B.pdf)
