@@ -3,9 +3,9 @@
 import re 
 from urllib.parse import urlparse, quote 
 
-pattern = "(\s|/)(.*Python.*)(\s|.pdf)"
+pattern = "(\s|/)(.*web.*)(\s|.pdf)"
 inFile = "allbooks.txt"
-outFile = "all_python_books.txt"
+outFile = "all_web_books.txt"
 
 file1 = open(inFile, "r") ;
 file2 = open(outFile, "w");
