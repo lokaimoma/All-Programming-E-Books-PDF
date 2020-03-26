@@ -11,7 +11,7 @@
 * [JQuery](#jquery)
 * [Flask](#flask)
 * [React](#react)
-* [DOM] (#dom)
+* [DOM](#dom)
 * [CSS](#css)
 * [HTML](#html)
 * [Angular](#angular)
