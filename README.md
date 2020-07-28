@@ -18,6 +18,7 @@
 * [API](#apis)
 * [Algorithms](#algorithms) 
 * [Java](#java) 
+* [SQLITE](#SQLITE) 
 
 ## C Books
 
@@ -1415,3 +1416,12 @@ This is a list of all the C Books that you probably need to master C Programming
 * [Pro Java 8 Programming, 3rd Edition.pdf](http://file.allitebooks.com/20150830/Pro%20Java%208%20Programming%2C%203rd%20Edition.pdf)
 * [Pro Java Clustering and Scalability.pdf](http://file.allitebooks.com/20170811/Pro%20Java%20Clustering%20and%20Scalability.pdf)
 * [Pro Java ME Apps.pdf](http://file.allitebooks.com/20150508/Pro%20Java%20ME%20Apps.pdf)
+
+## SQLITE
+
+* [Android SQLite Essentials.pdf](http://file.allitebooks.com/20160314/Android%20SQLite%20Essentials.pdf)
+* [Build iOS Database Apps with Swift and SQLite.pdf](http://file.allitebooks.com/20161120/Build%20iOS%20Database%20Apps%20with%20Swift%20and%20SQLite.pdf)
+* [Introducing SQLite for Mobile Developers.pdf](http://file.allitebooks.com/20160118/Introducing%20SQLite%20for%20Mobile%20Developers.pdf)
+* [Learning SQLite for iOS.pdf](http://file.allitebooks.com/20161123/Learning%20SQLite%20for%20iOS.pdf)
+* [The Definitive Guide to SQLite, 2nd Edition.pdf](http://file.allitebooks.com/20161202/The%20Definitive%20Guide%20to%20SQLite%2C%202nd%20Edition.pdf)
+* [Using SQLite.pdf](http://file.allitebooks.com/20151031/Using%20SQLite.pdf)
