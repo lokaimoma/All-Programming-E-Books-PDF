@@ -22,7 +22,7 @@
 
 ## C Books
 
-This is a list of all the C Books that you probably need to master C Programming Language
+This is a list of all  C Programming Books that you probably need to master C Programming Language
 
 ### Beginners
 
